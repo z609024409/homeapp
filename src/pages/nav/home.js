@@ -21,6 +21,7 @@ export default class home extends Component {
                         ))}
                     </Carousel>
                     <WhiteSpace size="sm" />
+                    
                     <WingBlank>
                         <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between", textAlign: "center" }}>
                             {

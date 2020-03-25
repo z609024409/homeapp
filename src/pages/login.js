@@ -15,6 +15,7 @@ export default class login extends Component {
                     <InputItem
                         placeholder="请输入用户名"
                         clear
+                        
                         value={username}
                         onChange={(val)=>{this.setState({username:val})}}
                     >

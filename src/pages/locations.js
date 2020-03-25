@@ -24,7 +24,6 @@ export default class locations extends Component {
                             </div>
 
                         )}
-
                     </ul>
                 </div>
                 <div ref='right' style={{ height: '100%', overflow: 'scroll', marginRight: '20px' }}>
